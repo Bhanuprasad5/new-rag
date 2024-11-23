@@ -1,0 +1,6 @@
+streamlit>=1.24.0
+langchain_chroma
+langchain_core
+langchain_google_genai
+sentence-transformers
+chromadb
